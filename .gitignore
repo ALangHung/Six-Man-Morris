@@ -10,3 +10,4 @@ DerivedDataCache/**
 Packed/**
 CachedAssetRegistry.bin
 .vs/**
+**.db

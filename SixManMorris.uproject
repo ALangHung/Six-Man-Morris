@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DE99AE98-4AAB-1C6F-414D-E683B58B642C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SixManMorris",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
