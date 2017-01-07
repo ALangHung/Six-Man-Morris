@@ -1,0 +1,12 @@
+Binaries
+Build/**
+Content/ArtContent/**
+Content/DataTable/**
+Releases/**
+Saved/**
+IOS/**
+Intermediate
+DerivedDataCache/**
+Packed/**
+CachedAssetRegistry.bin
+.vs/**
